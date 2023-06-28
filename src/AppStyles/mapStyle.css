@@ -1,0 +1,9 @@
+.listDim{
+    height: 100%;
+    width: auto;
+}
+
+.map-container{
+    background-image: cover;
+    object-fit: cover;
+}
